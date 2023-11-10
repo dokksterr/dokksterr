@@ -12,9 +12,13 @@
 - 😄 Pronouns: he/him unless God wants me to change 
 - ⚡ Fun fact: huh, that's a hard one to digest.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dokksterr.github.io as my blog )  
+I am studying commerce and working abroad at the same time. I want to be hacker number 1.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dokksterr.github.io as my blog &show_icons=true)  
+Skills: BASH / HTML / CSS / PYTHON / no, not true... but soon
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dokksterr)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dokksterr&show_icons=true)    
 <!--
 **dokksterr/dokksterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
