@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is rretskkod
 #### This is my official, semi-official and private projects info (I see no difference at all :) )
-![This is my official, semi-official and private projects info (I see no difference at all :) )](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![gitinfobanner](https://github.com/dokksterr/dokksterr/assets/150226098/f7b809f6-3216-422a-bba8-4a4294d154f6)
 
 - 🔭 I’m currently working on my blog
 - 🌱 I’m currently learning zsh
