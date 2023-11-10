@@ -18,7 +18,7 @@ Skills: BASH / HTML / CSS / PYTHON / no, not true... but soon
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dokksterr)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dokksterr&show_icons=true&theme=gruvbox)    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dokksterr&show_icons=true&theme=gruvbox&rank_icon=github)    
 <!--
 **dokksterr/dokksterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
